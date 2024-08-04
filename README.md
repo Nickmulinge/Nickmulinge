@@ -11,21 +11,21 @@
   </a>
 </p>
 
-- 📫 How to reach me **evansndilinge111@gmail.com**
+- 📫 How to reach me **nicholusm560@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/endilinge" target="_blank">
+  <a href="[https://dev.to/endilinge](https://github.com/Nickmulinge)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="endilinge" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/e_ndilinge" target="_blank">
+  <a href="[https://twitter.com/e_ndilinge](https://x.com/KeNickcreatives)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@e_ndilinge" height="30" width="40" />
   </a>
-  <a href="https://fb.com/ndilinge.evans" target="_blank">
+  <a href="[https://fb.com/ndilinge.evans](https://www.facebook.com/kenyan.savage.315)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndilinge evans" height="30" width="40" />
   </a>
   <a href="https://instagram.com/_ndiling.e_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ndiling.e_" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nick" height="30" width="40" />
   </a>
 </p>
 
