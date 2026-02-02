@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nick Mulinge</h1>
 <h3 align="center">
-  Full-Stack Web Developer • Laravel Specialist • API & System Builder
+  Full-Stack Web Developer • Digital solutions provider • API & System Builder
 </h3>
 
 <p align="center">
